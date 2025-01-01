@@ -6,4 +6,9 @@ idle shell is cmd for run command inline
 local and global function
 default argument : same has in c#
 document string, this will be for understanding paramter discription for developer
+Dictionary and trupple
 
+name and varibale 
+tuple is a list of values grouped together
+list: all values have similar meaning (homogeneous)
+Tuple: All values have different meaning (heterogeneous). Tuples are immutable
